@@ -87,8 +87,8 @@ A implementação dos serviços AWS trouxe impactos positivos significativos par
                            │
                            ▼
                 ┌─────────────────────┐
+                │     Amazon EC2      │
                 │   Aplicação Web     │
-                │    Amazon EC2       │
                 └─────────┬───────────┘
                           │
           ┌───────────────┴───────────────┐
